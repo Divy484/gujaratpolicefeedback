@@ -1,0 +1,23 @@
+footer {
+  position: relative;
+  padding: 10px;
+  text-align: center;
+  background: grey;
+  margin-top: 12px;
+  box-shadow: 5px 5px 5px grey;
+  font-size: medium;
+  color: White;
+}
+img{
+  image-resolution: 1080px 1900px;
+}
+
+td{padding: 10px;
+}
+table{border-style: solid;}
+
+  
+
+
+
+
